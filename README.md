@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aditya2204200/Daily_Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

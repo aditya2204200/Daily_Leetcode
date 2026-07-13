@@ -30,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0242-valid-anagram) |
+| [2000-reverse-prefix-of-word](https://github.com/aditya2204200/Daily_Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0020-valid-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/aditya2204200/Daily_Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0075-sort-colors) |
+| [2000-reverse-prefix-of-word](https://github.com/aditya2204200/Daily_Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Divide and Conquer
 |  |
 | ------- |

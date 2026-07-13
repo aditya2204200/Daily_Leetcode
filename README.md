@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0075-sort-colors) |
+| [0238-product-of-array-except-self](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aditya2204200/Daily_Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Hash Table
 |  |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

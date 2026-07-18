@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aditya2204200/Daily_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aditya2204200/Daily_Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0268-missing-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aditya2204200/Daily_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aditya2204200/Daily_Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Counting
 |  |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aditya2204200/Daily_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->

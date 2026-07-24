@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0075-sort-colors) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0229-majority-element-ii) |

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/aditya2204200/Daily_Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya2204200/Daily_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aditya2204200/Daily_Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/aditya2204200/Daily_Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aditya2204200/Daily_Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Math
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |

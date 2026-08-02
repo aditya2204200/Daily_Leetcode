@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya2204200/Daily_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aditya2204200/Daily_Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Counting
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -134,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aditya2204200/Daily_Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0075-sort-colors) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0125-valid-palindrome) |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

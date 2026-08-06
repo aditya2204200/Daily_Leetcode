@@ -1,8 +1,7 @@
 class Solution {
     public int[] twoSum(int[] arr, int target) {
-        int n = arr.length;
          int left = 0;
-          int right = n-1;
+        int right = arr.length-1;
 
           while(left < right){          
             if(arr[left] + arr[right] == target){

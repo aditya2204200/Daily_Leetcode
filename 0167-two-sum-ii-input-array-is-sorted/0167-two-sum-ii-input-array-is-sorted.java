@@ -4,11 +4,10 @@ class Solution {
          int left = 0;
           int right = n-1;
 
-          while(left < right){
-            int sum = arr[left] + arr[right];
-            if(sum == target){
+          while(left < right){          
+            if(arr[left] + arr[right] == target){
                 return new int[]{left+1 , right+1};
-            }else if(sum < target){
+            }else if(arr[left] + arr[right] < target){
                 left++;
             }else{
                 right--;

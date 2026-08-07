@@ -3,19 +3,21 @@ class Solution {
         int left =0;
         int right = 0;
         int maxLength = 0;
+        HashMap<Character , Integer> map =  new HashMap<>();
         int[] arr = new int[256];
         while(right < s.length()){
-            int currentChar = s.charAt(right);
-            int currentCharAscii = (int)currentChar;
+            char currentChar = s.charAt(right);
 
-            arr[currentCharAscii]++;
-
-            while(arr[currentCharAscii] > 1){
-                char leftChar = s.charAt(left);
-                int leftCharAscii = (int) leftChar;
-                arr[leftCharAscii]--;
-                left++;
+            if(map.containsKey(currentChar)){
+                int lastIndex = map.get(currentChar);
+                int newLeft = lastIndex + 1;
+                if(newLeft > left){
+                    left = newLeft;;
+                }
             }
+
+            map.put(currentChar , right);
+        
             int currentWindowsize = right - left + 1;
             if(currentWindowsize > maxLength){
                 maxLength = currentWindowsize;

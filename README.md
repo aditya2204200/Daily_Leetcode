@@ -224,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0075-sort-colors) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->

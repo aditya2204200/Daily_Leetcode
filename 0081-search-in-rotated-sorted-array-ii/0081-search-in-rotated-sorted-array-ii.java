@@ -1,11 +1,12 @@
 class Solution {
     public boolean search(int[] nums, int target) {
-        int n = nums.length;
+        HashSet<Integer> set = new HashSet<>();
 
-        for(int i=0; i<n; i++){
-            if(nums[i] == target){
-                return true;
-            }
+        for(int i=0; i<nums.length; i++){
+            set.add(nums[i]);
+        }
+        if(set.contains(target)){
+            return true;
         }
         return false;
     }

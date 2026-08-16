@@ -232,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0176-second-highest-salary) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

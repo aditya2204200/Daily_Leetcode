@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0796-rotate-string) |
 | [2000-reverse-prefix-of-word](https://github.com/aditya2204200/Daily_Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

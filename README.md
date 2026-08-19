@@ -260,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0796-rotate-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

@@ -11,10 +11,8 @@ class Solution {
             char ch = t.charAt(i);
             freq[ch - 'a']--;
         }
-        for(int i=1; i<26; i++){
-            if(freq[i] != 0){
-                return false;
-            }
+        for(int i=0; i<26; i++){
+            if(freq[i] != 0) return false;
         }
         return true;
     }

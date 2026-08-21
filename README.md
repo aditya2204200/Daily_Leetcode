@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/aditya2204200/Daily_Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aditya2204200/Daily_Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aditya2204200/Daily_Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aditya2204200/Daily_Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aditya2204200/Daily_Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aditya2204200/Daily_Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## String
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0796-rotate-string) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aditya2204200/Daily_Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2000-reverse-prefix-of-word](https://github.com/aditya2204200/Daily_Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |

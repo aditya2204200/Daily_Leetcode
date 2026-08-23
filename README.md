@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/aditya2204200/Daily_Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Divide and Conquer
 |  |
@@ -282,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0412-fizz-buzz) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

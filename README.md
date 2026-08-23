@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0509-fibonacci-number) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0389-find-the-difference) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |

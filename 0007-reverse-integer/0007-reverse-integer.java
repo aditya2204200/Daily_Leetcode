@@ -7,7 +7,6 @@ class Solution {
             if (rev > Integer.MAX_VALUE / 10 || rev < Integer.MIN_VALUE / 10) {
                 return 0;
             }
-
             rev = rev * 10 + digits;
         }
         return rev;

@@ -1,24 +1,29 @@
-class Solution { 
-    public void merge(int[] arr, int m, int[] brr, int n) { 
-        int[] temp = new int[m]; 
-        for(int k = 0; k < m; k++) {
-            temp[k] = arr[k]; 
+class Solution {
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+        int i = m-1;
+        int j = n-1;
+
+        int k = nums1.length - 1;
+
+        while(i >= 0 && j >= 0){
+            if(nums1[i] > nums2[j]){
+                nums1[k] = nums1[i];
+                i--;
+            }else{
+                nums1[k] = nums2[j];
+                j--;
+            }
+            k--;
         }
-        int i = 0, j = 0, k = 0; 
-        while(k < m && j < n) { 
-            if(temp[k] <= brr[j]) { 
-                arr[i++] = temp[k++]; 
-            } else { 
-                arr[i++] = brr[j++]; 
-            } 
-        } 
-        
-        while(k < m) {
-            arr[i++] = temp[k++]; 
+        while(i >= 0){
+            nums1[k] = nums1[i];
+            i--;
+            k--;
         }
-        
-        while(j < n) {
-            arr[i++] = brr[j++]; 
+        while( j >= 0){
+            nums1[k] = nums2[j];
+            j--;
+            k--;
         }
-    } 
+    }
 }

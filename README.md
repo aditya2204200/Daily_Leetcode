@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0088-merge-sorted-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/aditya2204200/Daily_Leetcode/tree/master/0204-count-primes) |
